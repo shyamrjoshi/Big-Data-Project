@@ -1,2 +1,2 @@
 # Big-Data-Project
-Interaction between Taxi,weather and Subway data
+Interaction between Taxi, Weather and Subway data
