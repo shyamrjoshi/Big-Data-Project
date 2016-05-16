@@ -1,0 +1,30 @@
+Aws link to output files
+
+Clean data
+https://s3-us-west-2.amazonaws.com/projectjil/cleandatafeb/part-00000
+https://s3-us-west-2.amazonaws.com/projectjil/cleandatamarch/part-00000
+https://s3-us-west-2.amazonaws.com/projectjil/cleantaxijan1/part-00000
+
+Top 10 subway Rain
+https://s3-us-west-2.amazonaws.com/projectjil/crossproductoutputmarch.csv
+https://s3-us-west-2.amazonaws.com/projectjil/crossproductsnowoutputmarch.csv
+https://s3-us-west-2.amazonaws.com/projectjil/febjoinoutput.csv
+https://s3-us-west-2.amazonaws.com/projectjil/febsnowcrossproductoutput.csv
+https://s3-us-west-2.amazonaws.com/projectjil/febsnowjoinoutput.csv
+https://s3-us-west-2.amazonaws.com/projectjil/jansnowcrossproductoutput.csv
+https://s3-us-west-2.amazonaws.com/projectjil/jansnowjoinooutput.csv
+https://s3-us-west-2.amazonaws.com/projectjil/joinformarchdatafinal.csv
+https://s3-us-west-2.amazonaws.com/projectjil/marchsnowsubwaydatafinaljoinoutput.csv
+https://s3-us-west-2.amazonaws.com/projectjil/subwaycrossjoinoutputfile.csv
+https://s3-us-west-2.amazonaws.com/projectjil/subwayrevenue.csv
+https://s3-us-west-2.amazonaws.com/projectjil/subwaystatoutput.csv
+https://s3-us-west-2.amazonaws.com/projectjil/subwaystatsfebsnow.csv
+https://s3-us-west-2.amazonaws.com/projectjil/subwaystatsjansnow.csv
+https://s3-us-west-2.amazonaws.com/projectjil/subwaystatsoutputmarchfinal.csv
+https://s3-us-west-2.amazonaws.com/projectjil/subwaystatssnowmarch.csv
+
+Taxi & Subway Revenue
+https://s3-us-west-2.amazonaws.com/srj295project/question2/subwayreveue/taxi_feb_revenue/taxi_feb_revenue.csv
+https://s3-us-west-2.amazonaws.com/srj295project/question2/subwayreveue/taxi_feb_revenue/taxi_march_revenue.csv
+
+Rest of the output is on HPC dumbo
